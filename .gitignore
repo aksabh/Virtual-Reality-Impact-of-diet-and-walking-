@@ -1,0 +1,53 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild
+[Ll]ibrary/
+sysinfo.txt
+*.stackdump
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+[Ee]xported[Oo]bj/
+.vs/
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+<<<<<<< Updated upstream
+Library/metadata/05/05c5a7cf1f7ca4a0db9fef203f559380
+=======
+*.csproj
+
+*.csproj
+
+*.csproj
+
+Assembly-CSharp-firstpass.csproj
+
+Assembly-CSharp.csproj
+
+Library/metadata/73/739bbd9f364b4268874f9fd86ab3beef
+>>>>>>> Stashed changes
+Assets/WalkingManager.cs
+Assets/WalkingManager.cs.meta
+
+*.apk
